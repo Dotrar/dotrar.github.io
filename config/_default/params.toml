@@ -1,5 +1,5 @@
-logoText = "Zzo" # Logo text that appears in the site navigation bar.
-description = "The Zzo theme for Hugo example site." # for SEO
+logoText = "Westcook" 
+description = "Programmer and developer, thoughts on languages and technology." 
 custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
 
@@ -26,13 +26,13 @@ talksPaginate = 8 # items per page
 talksGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://github.com/zzossig/hugo-theme-zzo"
+myname = "Dre Westcook"
+email = "sir.west.dre@gmail.com"
+whoami = "Software Developer"
+useGravatar = true
+location = "Sydney, Australia"
+organization = ""
+link = "https://github.com/dotrar"
 
 # sidebar
 enableBio = true # home page sidebar
@@ -107,9 +107,9 @@ commento = false
 
 [socialOptions] # if set, social icons will show up.
   email = "mailto:your@email.com"
-  facebook = "https://elated-lumiere-225c1a.netlify.com/"
-  twitter = "https://elated-lumiere-225c1a.netlify.com/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = ""
+  github = ""
   stack-overflow = ""
   instagram = ""
   google-plus = ""
