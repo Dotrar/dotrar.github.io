@@ -1,39 +1,29 @@
 ---
 layout: default
-title:  "[Draft] Using a bullet journal"
+title:  "Thoughts on bullet journals"
 date:   2021-10-27 08:30:18 +1100
 categories: organising
 tags: organising journal planning tasks
-draft: true
 ---
 
-# This is still a draft post, 
-TODO:
-* bullet journalling for software developers link
-* bullet journalling video
-* 6-month-spread picture or image
-* next-month-spread
-* delta symbol
-* link to tabs used on journal
-
-I've been using a bullet journal for about 2 months now, after being introduced to it in [bullet journalling for software developers]().
+I've been using a bullet journal for about 2 months now, after being introduced to it in [bullet journaling for software developers](https://ksylor.github.io/2020/08/26/bullet-journaling.html).
 I tried a few of the suggestions in the blog post, but after a while I can see trends in what I enjoy using, and what I don't enjoy using.
 
-All in all, this is a bit of a review and guide on what I've found works for me in regards to bullet journalling, and what doesn't. Hopefully some of this might be useful to you, and you might be able to spin off and remix what I've done to make your own style of bullet journalling (be sure to tell us about it in the comments if you do).
+All in all, this is a bit of a review and guide on what I've found works for me in regards to bullet journaling, and what doesn't. Hopefully some of this might be useful to you, and you might be able to spin off and remix what I've done to make your own style of bullet journaling (be sure to tell us about it in the comments if you do).
 
-## Bullet Journalling Method
+## Bullet Journaling Method
 
 Firstly let's talk about what a bullet journal is. Bullet jounalling is a system or process whereby you write down all notes into a single destination. Largely this is things such as "daily todo lists" but can also include journals, misc-notes, shopping lists, and so on.
 
 I've found some things work in it well, but suprisingly some things like "project planning" doesn't work (atleast for me and how I'm doing things) - More on that later.
 
-There's a nice short video on bullet journalling [here]() if you want to give it a quick watch.
+There's a nice short video on bullet journaling [here](https://www.youtube.com/watch?v=fm15cmYU0IM) if you want to give it a quick watch.
 
 ## Starting a journal
 
-Thankfully I had a Leuchtturm1917 journal lying around. I do believe in the idea of "items of significance" should be of decent quality, otherwise you won't value the diary significantly enough to use or look after it.
+Thankfully I had a [Leuchtturm1917](https://leuchtturm1917.com.au/shop/notebook-hardcover-medium-a5-249-pages-ruled-ocean/) journal lying around (I had lined, but I would prefer dotted). I do believe in the idea of "items of significance" should be of decent quality, otherwise you won't value the diary significantly enough to use or look after it, so investing in a good journal is a good idea.
 
-Doing as the "bullet journalling system" says, we set up an index page at the front, a 6-month view, and the monthly view, along with the todo items for today. I'll go over each of these in details in terms of what I've done and how I've found it.
+Doing as the "bullet journaling system" says, we set up an index page at the front, a 6-month view, and the monthly view, along with the todo items for today. I'll go over each of these in details in terms of what I've done and how I've found it.
 
 ### Making a key and process
 
@@ -54,7 +44,7 @@ Generally the process goes like this, in the daily section (which we will talk a
 4. `X` the dots that you have completed.
 5. `>` the dots that you will have to push again to tomorrow.
 6. `<` the dots that you will push to another week / month / year
-7. ~strikeout items~ that no longer apply and you don't need.
+7. ~~strikeout items~~ that no longer apply and you don't need.
 
 Then, as you go again, completely rule off the previous day, and do it again, including the dot-points from yesterday that was `>` into this new day.
 
@@ -62,6 +52,8 @@ Then, as you go again, completely rule off the previous day, and do it again, in
 ### 6-month spread ("Future Log")
 
 This is pretty handy spread, Generally anything that is "we should do this next month or so" goes onto this spread as a bit of a todo item. When the month rolls around, you add those todo items to the monthly spread. 
+
+![future-log](images/6-month-spread.png)
 
 I've found that this works nicely, but my november almost filled out in capacity during september, let alone october. I think I've worked a solution to this in the next section about monthly spreads.
 
@@ -71,13 +63,13 @@ Generally, if this is for high level concepts, you wouldn't want to break tasks 
 
 Monthly spread I've changed from what the original post was talking about. I still use the 30 days down the left hand side, but I've split the right page to be both this-month and next-month like so:
 
-* image about monthly spread with this/next month.
+![monthly-spread](images/6-month-spread.png)
 
-### Daily todolist
+### Daily todolist (The dailies)
 
 The real meat of the substance comes from the daily to do lists which looks like this:
 
-* image about daily todo list
+![dailies](images/dailies.jpg)
 
 I've spoke about how the list works previously so I won't rehash that here. One thing that I do add occasionally, is a "migration list" which is something that I know I have to do in a few days time, but not yet. I usually just mark out a little section on the page and try to copy the todo items each day into them, until the day comes when I can put them into the main todo list, but I'm not sure how helpful it is, I'm still on the fense about it.
 
@@ -107,17 +99,14 @@ Not all of them are full pages, but it is difficult to judge accurately what mig
 
 ### Journal pages and thought pages
 
-I like journalling a lot, just the idea of writing out my thoughts and doing a bit of a brain dump really helps me to keep going. I'm sure there's a number of actual benefits to journalling that Icould go on about but I'll leave that for another day.
+I like journaling a lot, just the idea of writing out my thoughts and doing a bit of a brain dump really helps me to keep going. I'm sure there's a number of actual benefits to journaling that Icould go on about but I'll leave that for another day.
 
 All I do in regards to the bullet journal is title each page as a journal, and write. I try to make sure that this is on it's own page, and that Igive it suitable amount of time in the day ( usually at night) to write out what's on my mind. if I get interrupted or if I come back to the writing at another time of day, I'll do a short dash to seperate the two paragraphs to show that they're not a completely linear train of thought.
 
-* Image of journal page with seperator
 
 ## The index and how to get around
 
-As the original video might suggest, we use the first couple of pages at the start of the journal as an index. This generally works well, but I'm curious as to why the index might not be suited better in the back of the book, due to how the space fills. If the index is in the back, then it would be able to grow without limit.
-
-* Image of space filling from memory 
+As the original video might suggest, we use the first couple of pages at the start of the journal as an index. This generally works well, but I'm curious as to why the index might not be suited better in the back of the book, due to how the space fills (similar to how a stack works). If the index is in the back, then it would be able to grow without limit.
 
 Currently mine is at the start, and after two months I'm almost half way through my allocated index space. Maybe this isn't going to be an issue soon and Im just over-thinking it. I'll update this post with more information if I run out of room.
 
@@ -125,7 +114,7 @@ Irregardless of where the index is, it becomes critical to the operation of the 
 
 From the index, one can find any way to get around to any post or page or thought or list or todo, except for today.
 
-I have tried to mark out each of these entries with some sort of prefix or marking to describe what they are ( such as `L` for list) but it did not quite work out well enough, and just lead to visual clutter. However, I do mark out a little tryangle (delta) on posts and writings that Ineed to do for some self improvement, or a little astrix `*` for things that are important to me.
+I have tried to mark out each of these entries with some sort of prefix or marking to describe what they are ( such as `L` for list) but it did not quite work out well enough, and just lead to visual clutter. However, I do mark out a little triangle (`Δ`) on posts and writings that I need to do for some self improvement, or a little astrix `*` for things that are important to me.
 
 ### Complements to the index
 
@@ -135,12 +124,17 @@ Along with the index, I have also tried a few other ways of getting around quick
 
 I adore using ribbons in my diaries. I usually have one, and most journals do have one attached, which is crucial in my estimation. It is the fastest way to get where you need to be, which is usualy whatever you mark as today. This means you can bring up your todo list in a flash, or if you're working on something in particular, you can put the ribbon there and always flick back to it.
 
+![ribbons attached to diary](images/ribbons.jpg)
+
 I have tried to use two ribbons (today, and current project). but I have found that it isn't quite as intuitive as I want it to be. 
 One of the worst things if you pull up one ribbon, and it's tangled in such a way that would pull the other ribbon out of place.
 
 #### Tabs, external, stuck to the pages.
 
-I was swearing against this right up until a day or two a go when I used it to get to my 6-month future log. Ultimately the tabs are not needed when you have the index, and they jut out kind of annoyingly. But you're welcome to try it, if you're looking for tabs, the best quality that I've found are [these]().
+I was swearing against this right up until a day or two a go when I used it to get to my 6-month future log.
+
+![tabs in diary](images/tabs.jpg)
+Ultimately the tabs are not needed when you have the index, and they jut out kind of annoyingly. But you're welcome to try it, if you're looking for tabs, the best quality that I've found are [these](https://www.officeworks.com.au/shop/officeworks/p/post-it-tabs-25-x38mm-assorted-3-pack-3m686apryt).
 
 ## What doesn't work for me
 
@@ -150,20 +144,20 @@ These are some things that I've tried in the bullet journal and I've found that 
 I've tried to plan out some of my university assignments in this, much the same way that I would do a daily list, but as a "project-long" list. I have found that it doesn't generally work:
 
 1. Projects are not as small and atomic as dailies are. you can't cross out a section at the end of a day and get a feeling of accomplishment.
-2. Projects change, the requirements change, the order of process changes.. this doesn't quite work in the written medium / style that the bullet journalling uses.
+2. Projects change, the requirements change, the order of process changes.. this doesn't quite work in the written medium / style that the bullet journaling uses.
 
 I've scrapped trying to do "project todo organising" in my journal, and instead I focus on the "why"s of the project. 
 I've got a few projects now that I can write down ideas and link them together, and put in the reason *why* such and such a feature would be good. This is more free-form and usually amended to, not crossed out completely.
 
 It's a much more satisfying way of organising my thoughts and ideas relating to the project, and in some ways gives the ideas more substance and weight, as I can chew on them and add to them at any point (given that I take the diary everywhere) as well as the importance of the diary (it wouldn't be in there if it wasn't thought-about.*I don't just put any rubbish in my nice diary*)
 
-TL;DR: Bullet journalling (for me) is good for linking and processing ideas, not creating todo-items (except for in dailies).
+TL;DR: Bullet journaling (for me) is good for linking and processing ideas, not creating todo-items (except for in dailies).
 
-##Comparison to Obsidian and other note taking tools
+## Comparison to Obsidian and other note taking tools
 
 Primarily, after looking at a screen all day, I don't want to look at screens for longer than I have to. Even this blog post is written in such a way that I'm using e-ink outside so I can break away from the computer screen.
 
-* Insert picture about setup
+![current set up](images/outdoors-setup.jpg)
 
 Obsidian looks nice and seems to fit the Zettlekasten system well, which is what I'm interested in. There was also a nice vlog from this guy who was talking about how he uses OObsidian.
 
