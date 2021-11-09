@@ -6,6 +6,8 @@ categories: organising
 tags: organising journal planning tasks
 ---
 
+# Bullet Journals 
+
 I've been using a bullet journal for about 2 months now, after being introduced to it in [bullet journaling for software developers](https://ksylor.github.io/2020/08/26/bullet-journaling.html).
 I tried a few of the suggestions in the blog post, but after a while I can see trends in what I enjoy using, and what I don't enjoy using.
 
@@ -71,16 +73,16 @@ The real meat of the substance comes from the daily to do lists which looks like
 
 ![dailies](/images/dailies.jpg)
 
-I've spoke about how the list works previously so I won't rehash that here. One thing that I do add occasionally, is a "migration list" which is something that I know I have to do in a few days time, but not yet. I usually just mark out a little section on the page and try to copy the todo items each day into them, until the day comes when I can put them into the main todo list, but I'm not sure how helpful it is, I'm still on the fense about it.
+I've spoke about how the list works previously so I won't rehash that here. One thing that I do add occasionally, is a "migration list" which is something that I know I have to do in a few days time, but not yet. I usually just mark out a little section on the page and try to copy the todo items each day into them, until the day comes when I can put them into the main todo list, but I'm not sure how helpful it is, I'm still on the fence about it.
 
 Generally I try to focus on these bits every morning and night, almost like a daily habit of brushing your teeth. There's two positive feelings I get from this every day:
 
 * *The morning good feeling of seeing what to do and planning out the chaos*
 * *The night good feeling of ticking items off the list, and planning for tomorrow*
 
-Obviously each daily "checkout" of the journal also involves adding information to other parts if I come across them; I also try and make sure that I have my journal close by wheever I am, so if anything does come up, I can just write that into the journal at any time, and not lose it for later.
+Obviously each daily "checkout" of the journal also involves adding information to other parts if I come across them; I also try and make sure that I have my journal close by whereever I am, so if anything does come up, I can just write that into the journal at any time, and not lose it for later.
 
-This is probably the most critical part of the journal system - Making sure that it's close by and easy to write into. Thoughts and ideas will be easily lost if they are not added to the journal then-and-there when you come across them.
+This is probably the most critical part of the journal system - making sure that it is close by and easy to write into. Thoughts and ideas will be easily lost if they are not added to the journal then-and-there when you come across them.
 
 This also brings us to the next part of the journal, which is the fiddly-bits and "random lists" that I come across.
 
@@ -151,7 +153,7 @@ I've got a few projects now that I can write down ideas and link them together, 
 
 It's a much more satisfying way of organising my thoughts and ideas relating to the project, and in some ways gives the ideas more substance and weight, as I can chew on them and add to them at any point (given that I take the diary everywhere) as well as the importance of the diary (it wouldn't be in there if it wasn't thought-about.*I don't just put any rubbish in my nice diary*)
 
-TL;DR: Bullet journaling (for me) is good for linking and processing ideas, not creating todo-items (except for in dailies).
+**TL;DR:** Bullet journaling (for me) is good for linking and processing ideas, not creating todo-items (except for in dailies).
 
 ## Comparison to Obsidian and other note taking tools
 
@@ -188,4 +190,4 @@ I've used to chastise myself quite a bit for not always referring back to a pape
 Using a bullet journal has completely changed this, because I'm given flexibility to put in whatever information Iwant to put in (I'm suprised at how much the hours don't matter), - not only that, but being able to put in as much errata as I want means that the journal becomes not a chore to manage but an extension of my thoughts and hobbies and ideas. I look forward to writing in it each morning and night, and knowing that all my agenda items for the future are there.
 The flexibility with how I use the diary lines up perfectly with how life happens. Some days might need more, some days might just be reflective journal entries. And having a central place for my notes ( "things to buy" "movies that wife and I want to watch") means that they're just a few pages away from whenever I need them.
 
-All in all, highly recommended. Watch the video linked at the start to begin.
+All in all, highly recommended. Watch the video linked at the start to begin for yourself and try it.
