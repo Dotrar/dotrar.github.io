@@ -1,0 +1,34 @@
+---
+layout: default
+title:  "Project Post Mortem: Star Stratagem"
+date:   2021-10-28 16:21:18 +1100
+categories: project post-mortem
+tags: sci-fi game-dev 
+draft: true
+---
+
+Starting this blog with a failed project of mine, Star Stratagem` This was going to be my game I created as part of completing my bachelor degree.`
+This is my new blog that I thought I'd try out. One of the first things you'll notice is that I've put it in a comic sans font. 
+I'll have to remember that Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing 
+the format used in the file. After that, include the necessary front matter.
+Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight python %}
+def print_hi(name)
+  print(f"Hi, {name}")
+
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
