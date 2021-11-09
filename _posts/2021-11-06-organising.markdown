@@ -53,7 +53,7 @@ Then, as you go again, completely rule off the previous day, and do it again, in
 
 This is pretty handy spread, Generally anything that is "we should do this next month or so" goes onto this spread as a bit of a todo item. When the month rolls around, you add those todo items to the monthly spread. 
 
-![future-log](images/6-month-spread.png)
+![future-log](/images/6-month-spread.png)
 
 I've found that this works nicely, but my november almost filled out in capacity during september, let alone october. I think I've worked a solution to this in the next section about monthly spreads.
 
@@ -63,13 +63,13 @@ Generally, if this is for high level concepts, you wouldn't want to break tasks 
 
 Monthly spread I've changed from what the original post was talking about. I still use the 30 days down the left hand side, but I've split the right page to be both this-month and next-month like so:
 
-![monthly-spread](images/6-month-spread.png)
+![monthly-spread](/images/6-month-spread.png)
 
 ### Daily todolist (The dailies)
 
 The real meat of the substance comes from the daily to do lists which looks like this:
 
-![dailies](images/dailies.jpg)
+![dailies](/images/dailies.jpg)
 
 I've spoke about how the list works previously so I won't rehash that here. One thing that I do add occasionally, is a "migration list" which is something that I know I have to do in a few days time, but not yet. I usually just mark out a little section on the page and try to copy the todo items each day into them, until the day comes when I can put them into the main todo list, but I'm not sure how helpful it is, I'm still on the fense about it.
 
@@ -124,7 +124,7 @@ Along with the index, I have also tried a few other ways of getting around quick
 
 I adore using ribbons in my diaries. I usually have one, and most journals do have one attached, which is crucial in my estimation. It is the fastest way to get where you need to be, which is usualy whatever you mark as today. This means you can bring up your todo list in a flash, or if you're working on something in particular, you can put the ribbon there and always flick back to it.
 
-![ribbons attached to diary](images/ribbons.jpg)
+![ribbons attached to diary](/images/ribbons.jpg)
 
 I have tried to use two ribbons (today, and current project). but I have found that it isn't quite as intuitive as I want it to be. 
 One of the worst things if you pull up one ribbon, and it's tangled in such a way that would pull the other ribbon out of place.
@@ -133,7 +133,7 @@ One of the worst things if you pull up one ribbon, and it's tangled in such a wa
 
 I was swearing against this right up until a day or two a go when I used it to get to my 6-month future log.
 
-![tabs in diary](images/tabs.jpg)
+![tabs in diary](/images/tabs.jpg)
 Ultimately the tabs are not needed when you have the index, and they jut out kind of annoyingly. But you're welcome to try it, if you're looking for tabs, the best quality that I've found are [these](https://www.officeworks.com.au/shop/officeworks/p/post-it-tabs-25-x38mm-assorted-3-pack-3m686apryt).
 
 ## What doesn't work for me
@@ -157,7 +157,7 @@ TL;DR: Bullet journaling (for me) is good for linking and processing ideas, not 
 
 Primarily, after looking at a screen all day, I don't want to look at screens for longer than I have to. Even this blog post is written in such a way that I'm using e-ink outside so I can break away from the computer screen.
 
-![current set up](images/outdoors-setup.jpg)
+![current set up](/images/outdoors-setup.jpg)
 
 Obsidian looks nice and seems to fit the Zettlekasten system well, which is what I'm interested in. There was also a nice vlog from this guy who was talking about how he uses OObsidian.
 
