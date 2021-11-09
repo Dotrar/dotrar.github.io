@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: home
 ---
 Welcome to my blog
 
 
-### Blog posts 
-
+# Blog posts 
 <ul>
   {% for post in site.posts %}
     <li>

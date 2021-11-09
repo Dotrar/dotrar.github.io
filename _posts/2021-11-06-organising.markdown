@@ -6,14 +6,12 @@ categories: organising
 tags: organising journal planning tasks
 ---
 
-# Bullet Journals 
-
 I've been using a bullet journal for about 2 months now, after being introduced to it in [bullet journaling for software developers](https://ksylor.github.io/2020/08/26/bullet-journaling.html).
 I tried a few of the suggestions in the blog post, but after a while I can see trends in what I enjoy using, and what I don't enjoy using.
 
 All in all, this is a bit of a review and guide on what I've found works for me in regards to bullet journaling, and what doesn't. Hopefully some of this might be useful to you, and you might be able to spin off and remix what I've done to make your own style of bullet journaling (be sure to tell us about it in the comments if you do).
 
-## Bullet Journaling Method
+# Bullet Journaling Method
 
 Firstly let's talk about what a bullet journal is. Bullet jounalling is a system or process whereby you write down all notes into a single destination. Largely this is things such as "daily todo lists" but can also include journals, misc-notes, shopping lists, and so on.
 
@@ -21,13 +19,13 @@ I've found some things work in it well, but suprisingly some things like "projec
 
 There's a nice short video on bullet journaling [here](https://www.youtube.com/watch?v=fm15cmYU0IM) if you want to give it a quick watch.
 
-## Starting a journal
+# Starting a journal
 
 Thankfully I had a [Leuchtturm1917](https://leuchtturm1917.com.au/shop/notebook-hardcover-medium-a5-249-pages-ruled-ocean/) journal lying around (I had lined, but I would prefer dotted). I do believe in the idea of "items of significance" should be of decent quality, otherwise you won't value the diary significantly enough to use or look after it, so investing in a good journal is a good idea.
 
 Doing as the "bullet journaling system" says, we set up an index page at the front, a 6-month view, and the monthly view, along with the todo items for today. I'll go over each of these in details in terms of what I've done and how I've found it.
 
-### Making a key and process
+## Making a key and process
 
 A lot of what we're going to be doing in the journal is writing lists of things, and then crossing them off. I use the same idea that was pressented in the original bullet-journal videom namely:
 
@@ -50,8 +48,8 @@ Generally the process goes like this, in the daily section (which we will talk a
 
 Then, as you go again, completely rule off the previous day, and do it again, including the dot-points from yesterday that was `>` into this new day.
 
-## Parts of a Journal
-### 6-month spread ("Future Log")
+# Parts of a Journal
+## 6-month spread ("Future Log")
 
 This is pretty handy spread, Generally anything that is "we should do this next month or so" goes onto this spread as a bit of a todo item. When the month rolls around, you add those todo items to the monthly spread. 
 
@@ -61,13 +59,13 @@ I've found that this works nicely, but my november almost filled out in capacity
 
 Generally, if this is for high level concepts, you wouldn't want to break tasks down too much. The space is too thin to break out a level of details; the details should perhaps go in the monthly spread.
 
-### Monthly spread view
+## Monthly spread view
 
 Monthly spread I've changed from what the original post was talking about. I still use the 30 days down the left hand side, but I've split the right page to be both this-month and next-month like so:
 
 ![monthly-spread](/images/6-month-spread.png)
 
-### Daily todolist (The dailies)
+## Daily todolist (The dailies)
 
 The real meat of the substance comes from the daily to do lists which looks like this:
 
@@ -86,7 +84,7 @@ This is probably the most critical part of the journal system - making sure that
 
 This also brings us to the next part of the journal, which is the fiddly-bits and "random lists" that I come across.
 
-### Random lists, fiddly bits.
+## Random lists, fiddly bits.
 
 I've tried to write out a few things in the "random" pages, here's a couple as an example (these are titles of the pages):
 
@@ -99,14 +97,14 @@ Anything that generally fits the "list" format works pretty well. I've also trie
 
 Not all of them are full pages, but it is difficult to judge accurately what might be a big list vs a little list.
 
-### Journal pages and thought pages
+## Journal pages and thought pages
 
 I like journaling a lot, just the idea of writing out my thoughts and doing a bit of a brain dump really helps me to keep going. I'm sure there's a number of actual benefits to journaling that Icould go on about but I'll leave that for another day.
 
 All I do in regards to the bullet journal is title each page as a journal, and write. I try to make sure that this is on it's own page, and that Igive it suitable amount of time in the day ( usually at night) to write out what's on my mind. if I get interrupted or if I come back to the writing at another time of day, I'll do a short dash to seperate the two paragraphs to show that they're not a completely linear train of thought.
 
 
-## The index and how to get around
+# The index and how to get around
 
 As the original video might suggest, we use the first couple of pages at the start of the journal as an index. This generally works well, but I'm curious as to why the index might not be suited better in the back of the book, due to how the space fills (similar to how a stack works). If the index is in the back, then it would be able to grow without limit.
 
@@ -118,11 +116,11 @@ From the index, one can find any way to get around to any post or page or though
 
 I have tried to mark out each of these entries with some sort of prefix or marking to describe what they are ( such as `L` for list) but it did not quite work out well enough, and just lead to visual clutter. However, I do mark out a little triangle (`Δ`) on posts and writings that I need to do for some self improvement, or a little astrix `*` for things that are important to me.
 
-### Complements to the index
+## Complements to the index
 
 Along with the index, I have also tried a few other ways of getting around quickly:
 
-#### Ribbons, Single and Multi
+## Ribbons, Single and Multi
 
 I adore using ribbons in my diaries. I usually have one, and most journals do have one attached, which is crucial in my estimation. It is the fastest way to get where you need to be, which is usualy whatever you mark as today. This means you can bring up your todo list in a flash, or if you're working on something in particular, you can put the ribbon there and always flick back to it.
 
@@ -131,18 +129,18 @@ I adore using ribbons in my diaries. I usually have one, and most journals do ha
 I have tried to use two ribbons (today, and current project). but I have found that it isn't quite as intuitive as I want it to be. 
 One of the worst things if you pull up one ribbon, and it's tangled in such a way that would pull the other ribbon out of place.
 
-#### Tabs, external, stuck to the pages.
+## Tabs, external, stuck to the pages.
 
 I was swearing against this right up until a day or two a go when I used it to get to my 6-month future log.
 
 ![tabs in diary](/images/tabs.jpg)
 Ultimately the tabs are not needed when you have the index, and they jut out kind of annoyingly. But you're welcome to try it, if you're looking for tabs, the best quality that I've found are [these](https://www.officeworks.com.au/shop/officeworks/p/post-it-tabs-25-x38mm-assorted-3-pack-3m686apryt).
 
-## What doesn't work for me
+# What doesn't work for me
 
 These are some things that I've tried in the bullet journal and I've found that it doesn't match the style of what I'm doing. Perhaps I need to give it more of a go, perhaps I just need to slightly twak my method. If you do any of these things and find that it does work for you, I'd love to know how you do it.
 
-### Project planning.
+## Project planning.
 I've tried to plan out some of my university assignments in this, much the same way that I would do a daily list, but as a "project-long" list. I have found that it doesn't generally work:
 
 1. Projects are not as small and atomic as dailies are. you can't cross out a section at the end of a day and get a feeling of accomplishment.
@@ -155,7 +153,7 @@ It's a much more satisfying way of organising my thoughts and ideas relating to 
 
 **TL;DR:** Bullet journaling (for me) is good for linking and processing ideas, not creating todo-items (except for in dailies).
 
-## Comparison to Obsidian and other note taking tools
+# Comparison to Obsidian and other note taking tools
 
 Primarily, after looking at a screen all day, I don't want to look at screens for longer than I have to. Even this blog post is written in such a way that I'm using e-ink outside so I can break away from the computer screen.
 
@@ -166,7 +164,7 @@ Obsidian looks nice and seems to fit the Zettlekasten system well, which is what
 In all, I like the idea, but It's somewhat possible to do that in a diary ( keep in mind the original zettlekasten was as manual as it gets) and Being able to do it anywhere by just pulling out and writing in your journal is a fairly good benefit for me. 
 It might be possible to set up a system on your phone, but I hate typing on the phone, and I'm not one to talk out-loud and record a memo for myself.
 
-### Org-mode 
+## Org-mode 
 
 Arguably I did not give this much of a proper chance, and I feel it has relevance in some way relating to work projects and otherwise, but for life stuff, I couldn't make it stick, and similar reasoning about screen-related tools.
 
@@ -182,7 +180,7 @@ Things I like:
 
 But, as I said, I'm not chasing this in any meaningful way at the moment. I'm feeling OK with my bullet journal setup and being a pleb in all other ways.
 
-## Ende
+# Ende
 
 I've used to chastise myself quite a bit for not always referring back to a paper diary/planner,
 (you know, the ones with "week-to-a-view" spreads) - If I gave them a solid effort, I'd write too much to be contained in the little space they left for the day: often at odd hours that didn't line up with what they pre-filled. I'd forget, sometimes for a whole week, and there would be blank sections everywhere (and this is with week-spread view let alone day-to-a-page view)

@@ -25,22 +25,13 @@
           
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           {% include sidebar.html %}
-          <hr>
-          <h3>{{page.title}}</h3>
-          <hr>
-          {% include toc.html html=content %}
-
         </header>
-
         {% include links-mobile.html %}
-
         <div class="sidebar-footer">
           {%- include footer.html -%}
         </div>
       </div>
       <section>
-          <h1>{{ page.title }}</h1>
-          <hr>
           {{ content }}
       </section>
       <footer>
