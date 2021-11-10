@@ -2,8 +2,7 @@
 layout: default
 title:  "Project Post Mortem: Star Stratagem"
 date:   2021-10-28 16:21:18 +1100
-categories: project post-mortem
-tags: sci-fi game-dev 
+tags: ["sci-fi", "game-dev"]
 draft: true
 ---
 

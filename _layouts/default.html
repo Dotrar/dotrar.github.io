@@ -43,6 +43,9 @@
           <hr>
           {{ content }}
       </section>
+      {% if page.comments %}
+      {% include disqus.html %}
+      {% endif %}
       <footer>
         {%- include footer.html -%}
       </footer>

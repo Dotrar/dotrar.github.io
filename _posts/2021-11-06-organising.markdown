@@ -3,7 +3,8 @@ layout: default
 title:  "Thoughts on bullet journals"
 date:   2021-10-27 08:30:18 +1100
 categories: organising
-tags: organising journal planning tasks
+comments: true
+tags: ["organising","journal","planning","tasks"]
 ---
 
 I've been using a bullet journal for about 2 months now, after being introduced to it in [bullet journaling for software developers](https://ksylor.github.io/2020/08/26/bullet-journaling.html).
