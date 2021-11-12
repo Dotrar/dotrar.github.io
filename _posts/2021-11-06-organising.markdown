@@ -149,4 +149,49 @@ These are some things that I've tried in the bullet journal and I've found that 
 ### Project planning.
 I've tried to plan out some of my university assignments in this, much the same way that I would do a daily list, but as a "project-long" list. I have found that it doesn't generally work:
 
-1. Projects are not as small and atomic as dailies are. you can't cross out a section at the end of a day and get a feeling of complishment.
+1. Projects are not as small and atomic as dailies are. you can't cross out a section at the end of a day and get a feeling of accomplishment.
+2. Projects change, the requirements change, the order of process changes.. this doesn't quite work in the written medium / style that the bullet journalling uses.
+
+I've scrapped trying to do "project todo organising" in my journal, and instead I focus on the "why"s of the project. 
+I've got a few projects now that I can write down ideas and link them together, and put in the reason *why* such and such a feature would be good. This is more free-form and usually amended to, not crossed out completely.
+
+It's a much more satisfying way of organising my thoughts and ideas relating to the project, and in some ways gives the ideas more substance and weight, as I can chew on them and add to them at any point (given that I take the diary everywhere) as well as the importance of the diary (it wouldn't be in there if it wasn't thought-about.*I don't just put any rubbish in my nice diary*)
+
+TL;DR: Bullet journalling (for me) is good for linking and processing ideas, not creating todo-items (except for in dailies).
+
+##Comparison to Obsidian and other note taking tools
+
+Primarily, after looking at a screen all day, I don't want to look at screens for longer than I have to. Even this blog post is written in such a way that I'm using e-ink outside so I can break away from the computer screen.
+
+* Insert picture about setup
+
+Obsidian looks nice and seems to fit the Zettlekasten system well, which is what I'm interested in. There was also a nice vlog from this guy who was talking about how he uses OObsidian.
+
+In all, I like the idea, but It's somewhat possible to do that in a diary ( keep in mind the original zettlekasten was as manual as it gets) and Being able to do it anywhere by just pulling out and writing in your journal is a fairly good benefit for me. 
+It might be possible to set up a system on your phone, but I hate typing on the phone, and I'm not one to talk out-loud and record a memo for myself.
+
+### Org-mode 
+
+Arguably I did not give this much of a proper chance, and I feel it has relevance in some way relating to work projects and otherwise, but for life stuff, I couldn't make it stick, and similar reasoning about screen-related tools.
+
+I would love to get Org-mode working with me, because it looks promising. I have a hard time using evil mode because it's not quite the vim I'm used to (I use vim btw) but I am interested in LISP. I might have more productive things to say about this in the future, but at the moment I'm not chasing this much further.
+
+Things I like:
+
+* Lisp configuration (emacs in general) 
+* `<C-c><C-c>` to make a new quick note
+* Agenda items (although I don't need it, I just like that the feature is there and works)
+* File linking. People keep talking about vim-wiki style writing, which is perhaps what I have to look up.
+* easy folding / outlines - similar to vim-wiki and folding. Again I'll have to look it up.
+
+But, as I said, I'm not chasing this in any meaningful way at the moment. I'm feeling OK with my bullet journal setup and being a pleb in all other ways.
+
+## Ende
+
+I've used to chastise myself quite a bit for not always referring back to a paper diary/planner,
+(you know, the ones with "week-to-a-view" spreads) - If I gave them a solid effort, I'd write too much to be contained in the little space they left for the day: often at odd hours that didn't line up with what they pre-filled. I'd forget, sometimes for a whole week, and there would be blank sections everywhere (and this is with week-spread view let alone day-to-a-page view)
+
+Using a bullet journal has completely changed this, because I'm given flexibility to put in whatever information Iwant to put in (I'm suprised at how much the hours don't matter), - not only that, but being able to put in as much errata as I want means that the journal becomes not a chore to manage but an extension of my thoughts and hobbies and ideas. I look forward to writing in it each morning and night, and knowing that all my agenda items for the future are there.
+The flexibility with how I use the diary lines up perfectly with how life happens. Some days might need more, some days might just be reflective journal entries. And having a central place for my notes ( "things to buy" "movies that wife and I want to watch") means that they're just a few pages away from whenever I need them.
+
+All in all, highly recommended. Watch the video linked at the start to begin.
