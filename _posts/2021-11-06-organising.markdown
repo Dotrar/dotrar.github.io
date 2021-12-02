@@ -2,7 +2,7 @@
 layout: default
 title:  "Thoughts on bullet journals"
 date:   2021-10-27 08:30:18 +1100
-categories: organising
+category: organising
 comments: true
 tags: ["organising","journal","planning","tasks"]
 ---
@@ -64,7 +64,7 @@ Generally, if this is for high level concepts, you wouldn't want to break tasks 
 
 Monthly spread I've changed from what the original post was talking about. I still use the 30 days down the left hand side, but I've split the right page to be both this-month and next-month like so:
 
-![monthly-spread](/images/6-month-spread.png)
+![monthly-spread](/images/monthly-view.png)
 
 ## Daily todolist (The dailies)
 
