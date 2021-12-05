@@ -1,0 +1,55 @@
+---
+layout: default
+title: "Thoughts of the week - Blogging, Lisp, and Task Tension"
+category: blogging
+---
+
+I personally find it a bit difficult to get into blogging. The needing to stick to a consistent schedule, the writing, the tooling. I have a little less trouble with [journalling](/organising/2021/10/27/organising.html) as it is a little bit more personable, and _to the self_ rather than blogging, which is usually to an audience (such as yourself).
+
+The trouble with blogging compared to, say, writing for the self, is a matter of presentation and sufficient depth of thought to carry the audience with my thoughts, as well as making the whole thing easy enough to do.
+
+By far some of the easiest ways of doing it so far seems to be GitHub and markdown files. Presentation is something to be desired but atleast it is uniquely mine. 
+
+## Advent of code, Common Lisp edition 
+
+I've started to work on advent of code in common lisp, and I'm getting pretty ok at it. 
+
+![lisp alien](/images/lisp-alien.png)
+
+I'm liking this little weird alien.
+
+There is something to be said about the "hackability" of lisp. I'm still chewing on the idea so I might not have anything insightful to say, but the data/code layout with the returning and the s-expressions... there's only a few words and parenthesis changing that completely changes the entire program, and that is a pretty nice feeling.
+
+Currently I'm chewing on [AoC Day 4](https://adventofcode.com/2021/day/4) and it looks to be a tough one, but the toughest part of it is actually trying to find the time of day to be able to work on it. There's too many family things that I've got to work on first, after having some social gatherings last night (saturday) and then having to go to a "Baby Expo" today, I think this weekend is a bit too full to fit in the AoC and other projects that I want to do.
+
+## The Lisperati Task Tension method
+
+In learning a bit of lisp, I've been reading the [Land of Lisp](https://landoflisp.com) book by Conrad Barski, and I happened to come across his [blog site](https://lisperati.com) as well, which talks about a "Task Tension" system that he's devised, as a way to merge GTD philosophy with how he interprets the creative mind works. 
+
+I don't entirely diagnose myself with having a "creative mind" that bundles with creative energy and requirement for tight feedback loops, but I do understand and vibe with it. (It should be mentioned, perhaps, that not everything is clear cut and black and white, which is why I always like to delve into systems of organisation and pull out the stuff that suits me.)
+
+The system provides an interesting approach to managing creative projects; one of the more fundamental issues of creative projects, is that often there is not a sufficient "pull" towards the projects. The `GTD` method, Conrad suggests, is focused on removing anxiety to get work done, which doesn't work well for the creative people's need for a forcing effect that will force them into work.
+
+As I struggle with some of my side-projects, I also feel the need for pull into some of my projects; There is a more of "time-logging" approach to the Task-Tension, which might be good for my purposes but is something that I might struggle with. 
+
+### Task Tension process - The "Creative Projects" `CP` list.
+
+As the Task Tension goes: One must select "exactly four" Creative projects, which could be anything from "Writing a blog post" to "releasing a song" - any project that you have that involves creating something to an audience. These get separated into 4 different time slots, which should all be as equally as important to you. ([The source for all this is mentioned on the lisperati blog](http://www.lisperati.com/#:~:text=task%20selection%20process.-,Task%20Tension,-%2D%20Changes%20to%20the)).
+
+1. `Tiny-CP` should be estimated to be around 4 - 20 hours, (a week to a month, when juggling outside of work and family commitments).
+2. `Small-CP` should be estimated to be around 20 - 80 hours, (about half a year).
+3. `Large-CP` should be estimated to be around 80 - 200 hours, (about a year or more).
+4. `Huge-CP` should be estimated to be around 200 - 1000 hours, (potentially up to 3 hours). 
+
+Note that the added parenthesis is mine, as I'm trying to organise my projects and ideas that are not entirely related to my work (This is probably where I stake my claim as a creative person who is able to have projects outside of work). Any additional `CP` projects should be placed in an overflow "somday" list, which can be brought into rotation when the correct slot has been cleared.
+
+Then the process is as follows. Each time you work on one of the `CP` you must write down the number of hours ( I will probably be using a type of tally mark system for this). When finding what to work on:
+
+1. Look at the tracking log and find the scale that has the least number of hours logged; work on the associated task of that `CP`.
+2. When you hit the breaking point (to be thought of as a typical "writers block") then log the hours you've spent.
+3. When you get back to work again, revisit the log; it's possible that the project with the least numbers is now different.
+4. Atleast once a day, work on a task that is not a creation project. This is the normal TODO items that make up the rest of GTD method (or similar process).
+
+With this process, we should find that we release things in a staggered approach; as we're shaping up the bigger items, we're releasing small/tiny items that give us more of a sense of accomplishment, while also providing a "break" for our process when we reach a creative block on any of the other projects. 
+
+Ultimately, I like the idea and I find it makes reasonable assumptions. I'll try it out and write my notes about it as i come across them.
