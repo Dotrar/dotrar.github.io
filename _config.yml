@@ -30,7 +30,7 @@ github_username:  Dotrar
 # Build settings
 #remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: BDHU/minimalist@v0.1.0
-theme: minimalist-comic
+# theme: minimalist-comic
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
