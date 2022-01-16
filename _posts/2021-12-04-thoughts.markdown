@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Thoughts of the week - Blogging, Lisp, and Task Tension"
-category: blogging
+title: "Thoughts on Lisperati and Task Tension"
+category: thoughts
+tags: lisp organising blogging
 ---
 
 I personally find it a bit difficult to get into blogging. The needing to stick to a consistent schedule, the writing, the tooling. I have a little less trouble with [journalling](/organising/2021/10/27/organising.html) as it is a little bit more personable, and _to the self_ rather than blogging, which is usually to an audience (such as yourself).

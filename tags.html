@@ -1,0 +1,31 @@
+---
+layout: default
+title: Tags used
+permalink: /tags/
+---
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+<div class="w-100">
+	<div class="tags">
+		{% for item in (0..site.tags.size) %}{% unless forloop.last %}
+		{% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+			<a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <sup>({{ site.tags[this_word].size }})</sup></a>
+		{% endunless %}{% endfor %}
+	</div>
+</div>
+<hr>
+<div class="post-container">
+	{% for item in (0..site.tags.size) %}{% unless forloop.last %}
+	{% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+	<h3 id="{{ this_word | cgi_escape }}">{{ this_word | capitalize }}</h3>
+
+  <ul>
+	{% for post in site.tags[this_word] %}{% if post.title != null %}
+    <li>
+      <a class="post-title" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%d-%m-%Y" }}</time>
+    </li>
+	{% endif %}{% endfor %}
+  </ul>
+	{% endunless %}{% endfor %}
+</div>

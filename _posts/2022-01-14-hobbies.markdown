@@ -2,6 +2,7 @@
 layout: default
 title: "11 Hobbies in 11 months"
 category: ambitions
+tags: goals hobbies time-management drawing painting investing starcraft languages german korean
 ---
 
 I have a problem. Generally, for those of you who might know me in person, I am always enamoured by projects and ideas that I like to do.

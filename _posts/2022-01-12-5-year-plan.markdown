@@ -2,6 +2,7 @@
 layout: default
 title: "New years resolutions and 5 year plans"
 category: ambitions
+tags: plans goals business university wealth
 ---
 
 There's been a curve ball in my thoughts lately. Up until this point, I've been focused and aimed towards branching out and starting my own business. Creating a startup, a side business, building things that help people and making money from it. 
