@@ -1,4 +1,4 @@
---h
+---
 layout: home
 ---
 
@@ -6,10 +6,10 @@ layout: home
 
 Hi, I am a programmer with electronics and robotics experience. 
 
-Currently enjoying working for Octopus Energy and living in Illabunda Eco village with his wife and newborn baby.
+Currently enjoying working for Octopus Energy and living in Illabunda Eco village with my wife and newborn baby.
 
 There's not a lot of information here, unfortunately, as I'm still trying to find things to say; but feel free to check out 
-some related [tags](/tags/) and categories to get a feel for what I talk about.
+some related [tags](/tags/) and [the catalogue](/catalogue/) to get a feel for what I talk about.
 
 ## Blog posts:
 {% for post in site.posts %}

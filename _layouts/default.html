@@ -19,15 +19,11 @@
       <div class="sidebar">
         <header>
           <img class="img-circle" rel="prefetch" src="{{ "/assets/img/logo.jpg?v=" | append: site.github.build_revision | relative_url }}">
-          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          {% include sidebar.html %}
           <hr>
           <h3>{{page.title}}</h3>
+          <a href="{{site.url}}">Return Home</a>
           <hr>
           {% include toc.html html=content %}
-
         </header>
 
         {% include links-mobile.html %}
