@@ -1,0 +1,24 @@
+#!/bin/bash
+if [[ $@ ]]; then
+    spacename="$*"
+    name="${spacename// /-}";
+    name="${name,,}";
+    fname=$(date "+%Y-%m-%d-$name.markdown")
+    fname="_posts/$fname";
+    echo $fname;
+    cat > $fname << EOF
+---
+layout: default
+title: "$spacename"
+category: blog
+tags: 
+---
+
+EOF
+    nvim $fname
+
+else
+    echo "Usage:
+    $0 Title Case for What you Want
+";
+fi
