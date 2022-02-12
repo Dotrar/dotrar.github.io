@@ -31,6 +31,26 @@ There's a very large uptake time when I don't have the right equipment, so I've 
 
 I did try and do some painting without the products, but unless you're spending a whole day into cleaning the brushes while you do it, it becomes a bit unmanageable to pick-up-put-down again and again. I'll try it with the more reasonable equipment and see how much easier it becomes. So far, I only have one painting, and I'm one week in. So the rate of work is a bit slow.
 
+## Update (2021-02-12) - Not fun, but not painting's fault
+
+Morale is low; I was able to paint today, but it is a bit slow going and a bit rough to try and fit it in. I got my "needed components" (safflower oil and canvas boards) and they're good, but it definitely makes things a little more fiddly.
+
+![oil-accident](/images/painting-accident.png)
+
+Perhaps it's also due to some of the stresses of the week: I've been trying to sit down and paint for a while, and it's something I put in my [new organiser](/blog/2022/02/11/amazing-marvin-and-the-list-of-time.html) so that it stares me down; I haven't been lazily avoiding it though. Things just get busy in my life, and I was in the support seat these past two weeks, which have really taken the "external time" out from me.
+
+![seascape painting](/images/water-painting.png)
+
+([Ocean Breeze, S10E05](https://www.twoinchbrush.com/painting/ocean-breeze)). Perhaps another part of not enjoying this run was the fact that I've sort of been painting something new; I learnt a new technique of how to do waters, which has been very nice, but like anything new, there's always a bit of a struggle and frustration with it. The rock was also something that I couldn't do, as I have new paints and new mediums, nothing was quite working out the way I wanted it to. The hard canvas boards push against the knife (which was also new - and I didn't know how to hold properly.) meaning that rather than blotching on some jaggered rocks, it would scrape away the paint and reveal the cloth mesh canvas underneath. 
+
+Every painting is going to be an opportunity to learn something new, so I've got to be able to process these sorts of things. I think I am able to handle these things, more generally, but perhaps just frustration at the fiddliness got to me this time around. I don't know how I'd be able to cope with a child running around, and still living in a rental house.
+
+Another difficulty seemed to have been the size of everything; I think oil painting is one medium that really works to have bigger paintings, rather than small; oil is largely a thick medium, and to be able to flow it around and move the way you want it to involves having a large amount of space to move and dance around. 
+
+A little ridge of paint on the canvas looks much bigger on a smaller canvas.
+
+<hr>
+
 ## Assessment of the hobby
 
 I'll update this post progressively through the weeks to keep updated with my progress, in amongst other blog posts that I try to do.
@@ -42,3 +62,9 @@ Like always, the requirements that I'm marking against:
 - Do I actively enjoy doing it?
 
 I'll update this post later with more information (and photos) when they come.
+
+### How quickly can I jump into it
+
+Kind of not quickly; The setup and packdown times are rather large, and it's difficult to just "leave the paint lying about" as birds or other things can get into it. There is perhaps better methods of storage for the intermediate process: when I'm juggling between painting and work for instance, but at the moment that seems a little out of reach.
+
+There's probably half an hour to setup, hour to paint, and hour to pack down; leading to a large chunk of time being used in the day to day; If we had a bit more space and I could leave a corner of the apartment to "the painting area" with no birds or similar getting into it, it could probably work out alright. But there's definitely a balance to be had when trying to factor in space and time.
